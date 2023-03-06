@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #2d3448;
+}
+.top-banner{
+    background: #EAE1D1;
+    margin-top: -1%;
+    height: 80px;
+    font-size: 12px;
+    font-family: sans-serif;
+    padding: 15px;
+    text-align: center;
+    padding-bottom: 40px;
+    color: #a2917a;
+}
+.banner-title{
+    font-size: 24px;
+    color: #7b3c1f;
+    font-weight: bold;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col2{
+    margin: 1%;
+    width: 48%;
+}
+.right-land{
+    width: 60%;
+}
+.land-card{
+    height: 250px;
+    width: 100%;
+    margin: 5%;
+}
+.one{
+    background: #ffe7bd;
+}
+.two{
+    background: #d0efd5;
+}
+.container{
+    width: 84%;
+    margin: 8%;
+    height: 800px;
+}
+.col4{
+    width: 21%;
+    margin: 2%;
+    background: #2d3448;
+    height: 100px;
+}
